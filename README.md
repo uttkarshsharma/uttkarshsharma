@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can 💬 contact me [here](https://forms.gle/AE5fGMEMexkFrN359).
+You can 💬 contact me [here](https://uttkarsh.net).
 
 <!--
 **uttkarshsharma/uttkarshsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
